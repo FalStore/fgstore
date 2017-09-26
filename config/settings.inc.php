@@ -1,8 +1,8 @@
 <?php
-define('_DB_SERVER_', 'localhost');
-define('_DB_NAME_', 'pshopdb');
-define('_DB_USER_', 'root');
-define('_DB_PASSWD_', '');
+define('_DB_SERVER_', 'ec2-23-23-192-242.compute-1.amazonaws.com');
+define('_DB_NAME_', 'dctmjvn0ktejtc');
+define('_DB_USER_', 'zqmqgjxofrdbfo');
+define('_DB_PASSWD_', '2a7cd6178e369ba343d823d75d3b08f9a742825a16eff42ddbeb01c4f571e4f6');
 define('_DB_PREFIX_', 'ps_');
 define('_MYSQL_ENGINE_', 'InnoDB');
 define('_PS_CACHING_SYSTEM_', 'CacheMemcache');
